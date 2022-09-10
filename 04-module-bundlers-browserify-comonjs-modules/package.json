@@ -1,0 +1,16 @@
+{
+	"name": "browserify",
+	"version": "1.0.0",
+	"description": "Module bundler browserify",
+	"main": "app.js",
+	"author": "Trkulja Sasa",
+	"license": "ISC",
+	"scripts": {
+		"start": "http-server"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"browserify": "^17.0.0",
+		"http-server": "^14.1.1"
+	}
+}

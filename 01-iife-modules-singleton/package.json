@@ -1,0 +1,14 @@
+{
+	"name": "iife-modules",
+	"version": "1.0.0",
+	"description": "ES5 modules with iife functions",
+	"main": "index.js",
+	"author": "Trkulja Sasa",
+	"license": "MIT",
+	"scripts": {
+		"start": "http-server"
+	},
+	"dependencies": {
+		"http-server": "^14.1.1"
+	}
+}

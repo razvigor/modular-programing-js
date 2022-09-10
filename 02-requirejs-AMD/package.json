@@ -1,0 +1,17 @@
+{
+	"name": "module-formats-and-loaders",
+	"version": "1.0.0",
+	"description": "Module formats and loaders",
+	"main": "app.js",
+	"author": "Trkulja Sasa",
+	"license": "ISC",
+	"scripts": {
+		"start": "http-server"
+	},
+	"dependencies": {
+		"requirejs": "^2.3.6"
+	},
+	"devDependencies": {
+		"http-server": "^14.1.1"
+	}
+}

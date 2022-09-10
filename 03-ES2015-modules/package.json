@@ -1,0 +1,20 @@
+{
+	"name": "iife-modules",
+	"version": "1.0.0",
+	"description": "ES5 modules with iife functions",
+	"main": "index.js",
+	"author": "Trkulja Sasa",
+	"type": "module",
+	"license": "MIT",
+	"scripts": {
+		"start": "http-server",
+		"build": "babel js -d build"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@babel/cli": "^7.18.10",
+		"@babel/core": "^7.18.13",
+		"@babel/preset-env": "^7.18.10",
+		"http-server": "^14.1.1"
+	}
+}
