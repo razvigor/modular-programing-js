@@ -6,7 +6,8 @@
 	"author": "Trkulja Sasa",
 	"license": "ISC",
 	"scripts": {
-		"start": "http-server"
+		"start": "http-server",
+		"build": "browserify js/app.js -o build/bundle.js"
 	},
 	"dependencies": {},
 	"devDependencies": {
